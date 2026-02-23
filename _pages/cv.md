@@ -21,7 +21,7 @@ Education
   
     **M2:** Mathematics for living sciences, 2021-2022
   
-    **M1:** Mathematics Jaques Hadamard, 2020-2022
+    **M1:** Mathematics Jacques Hadamard, 2020-2022
   
 * B.Sc. in Applied Mathematics, 2019
   
