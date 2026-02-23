@@ -4,7 +4,7 @@ collection: publications
 category: preprint
 permalink: /publication/hematopoiesis
 excerpt: ''
-date: '2026'
+date: '2026-01-01'
 venue: ''
 slidesurl: ''
 paperurl: 'https://ana-fernandezbaranda.github.io/files/hematopoiesis.pdf'
