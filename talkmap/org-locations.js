@@ -1,23 +1,13 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
     "Characterization of Myeloproliferative Disorders detection time through an age-dependent mutation rate<br />Ecole de printemps de la chaire MMB; Aussois, France",
     45.2275415,
     6.7413988
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Hematopoiesis as a continuum: from stochastic compartmental model to hydrodynamic limit<br />Mathematical Biology Modelling days of Besan\u00e7on 2025; Besan\u00e7on, France",
+    47.2380222,
+    6.0243622
   ],
   [
     "Characterization of Myeloproliferative Disorders detection time as a function of biological parameters<br />Journ\u00e9es Math Bio Sant\u00e9 2023; Marne la Vall\u00e9e, France",
