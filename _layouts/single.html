@@ -36,12 +36,11 @@ layout: default
 
 
         {% if page.collection == 'teaching' %}
-          <!- {% if page.teaching_period %}
+          {% if page.teaching_period %}
             <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.teaching_period }} </p>
           {% else %}
             <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% endif %} ->
-          <p> {{ page.type }}, <i>{{ page.venue }}</i> </p>
+          {% endif %} 
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
