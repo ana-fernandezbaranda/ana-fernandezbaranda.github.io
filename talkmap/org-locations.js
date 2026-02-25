@@ -10,6 +10,11 @@ var addressPoints = [
     -0.1277653
   ],
   [
+    "Characterization of Myeloproliferative Disorders detection time through an age-dependent mutation rate<br />Ecole de printemps de la chaire MMB; Aussois, France",
+    45.2275415,
+    6.7413988
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
@@ -18,10 +23,5 @@ var addressPoints = [
     "Characterization of Myeloproliferative Disorders detection time as a function of biological parameters<br />Journ\u00e9es Math Bio Sant\u00e9 2023; Marne la Vall\u00e9e, France",
     48.8494036,
     2.6727019
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
   ]
 ];
