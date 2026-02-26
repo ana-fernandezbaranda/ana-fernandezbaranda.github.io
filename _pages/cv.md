@@ -42,6 +42,6 @@ Talks and posters
 Technical Skills
 ======
 **Computer languages:** Python, R, Julia, MATLAB, Java <br>
-**Software:** Monolix 
+**Software:** Monolix <br>
 **Languages:** Spanish (Native), French (Advanced), English (Advanced)
 
