@@ -16,7 +16,7 @@ _CMAP, Ecole Polytechnique, Palaiseau, France_ <br>
 Advisors: Sylvie Méléard and Vincent Bansaye
 
 **Master in Applied Mathematics**, _2020-2022_ <br>
-_Institut Polytechnique de Paris, Palaiseau, France_
+_Institut Polytechnique de Paris, Palaiseau, France_ <br>
 Master scholarship from IP Paris (PhD Track) <br>
 **M2:** Mathematics for living sciences<br>
 **M1:** Mathematics Jacques Hadamard
