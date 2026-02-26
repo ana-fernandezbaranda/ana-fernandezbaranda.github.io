@@ -3,7 +3,7 @@ title: "Hematopoiesis as a continuum: from stochastic compartmental model to hyd
 collection: publications
 category: preprint
 permalink: /publication/continuum
-#excerpt: ''
+excerpt: 'From a multiscale stochastic compartmental model with three types of cells (stem cells, immature cells and mature cells) which combines cell proliferation and cell differentiation, we derive a hydrodynamic limit when the number of immature compartments goes to infinity obtaining a partial differential equations system with boundary conditions, modelling hematopoiesis as a continuum.'
 date: '2026-01-01'
 #venue: ''
 #slidesurl: ''
