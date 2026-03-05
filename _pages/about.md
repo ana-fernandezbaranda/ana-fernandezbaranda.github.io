@@ -12,7 +12,7 @@ I'm a PhD candidate in Applied Mathematics at [CMAP, Ecole Polytechnique](https:
 
 Research
 ======
-I am an applied mathematician with a strong interest in application to biological phenomena. My doctoral work focuses on stochastic modeling of hematopoiesis (process by which blood cells are produced), and statistical analysis of clinical data to better understand Myeloproliferative Neoplasms (type of blood cancers). 
+I am an applied mathematician with a strong interest in applications to biological phenomena. My doctoral work focuses on stochastic modeling of hematopoiesis (process by which blood cells are produced), and statistical analysis of clinical data to better understand Myeloproliferative Neoplasms (type of blood cancers). 
 
 **Some keywords:**
 -Stochastic processes
