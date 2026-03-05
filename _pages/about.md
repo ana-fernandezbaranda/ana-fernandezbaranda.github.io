@@ -16,13 +16,13 @@ I am an applied mathematician with a strong interest in applications to biologic
 
 **Some keywords:**
 
- *Stochastic processes
+- Stochastic processes
 
- *Population dynamics
+- Population dynamics
 
- *Mixed effects models
+- Mixed effects models
 
- *Mathematical biology
+ - Mathematical biology
 
 
 
