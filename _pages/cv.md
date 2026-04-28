@@ -13,6 +13,7 @@ Education
 ======
 **Ph.D in Applied Mathematics**, _(expected 2026)_ <br>
 _CMAP, Ecole Polytechnique, Palaiseau, France_ <br>
+Stochastic modeling of hematopoiesis and Myeloproliferative Neoplasms: hydrodynamic limit and statistical analysis
 Advisors: Sylvie Méléard and Vincent Bansaye
 
 **Master in Applied Mathematics**, _2020-2022_ <br>
