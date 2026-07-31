@@ -8,11 +8,21 @@ redirect_from:
 ---
 Contact: ana.fernandez-baranda@polytechnique.edu
 
-I'm a PhD candidate in Applied Mathematics at [CMAP, Ecole Polytechnique](https://cmap.ip-paris.fr/), as part of the [PhD track](https://www.ip-paris.fr/en/education/phd-track/phd-track-mathematics) program of Institut Polytechnique de Paris. I work under the supervision of Sylvie Méléard and Vincent Bansaye. Since September 2025, my research has been supported by the [ERC project SINGER](https://www.ip-paris.fr/erc-singer-stochastic-dynamics-single-cells-growth-emergence-and-resistance). I am part of the group [PEIPS](https://cmap.ip-paris.fr/en/research/probability/peips) (Population Evolution and Interacting Particle Systems), the [Inria project team MERGE](https://team.inria.fr/merge/fr/) (Mathematics for Evolution, Reproduction, Growth and Emergence), the [Evolution de populations et systèmes de particules en interaction](https://www.institut-leucemie.fr/linstitut-de-la-leucemie-recherche/population-systemes-particules-interactions/) team at Institut de la Leucémie, as well as a member of the [Chaire MMB](http://www.cmap.polytechnique.fr/~chaire-mmb//index.html) (Chaire Modélisation Mathématique et Biodiversité). 
+I am an applied mathematician with a strong interest in medical and biological applications.
+
+I recently completed my PhD at [CMAP, Ecole Polytechnique](https://cmap.ip-paris.fr/), as part of the [PhD track](https://www.ip-paris.fr/en/education/phd-track/phd-track-mathematics) program of Institut Polytechnique de Paris. My work was done under the supervision of Sylvie Méléard and Vincent Bansaye. Since September 2025, my research has been supported by the [ERC project SINGER](https://www.ip-paris.fr/erc-singer-stochastic-dynamics-single-cells-growth-emergence-and-resistance). 
+Additionally I am part of:
+-  The [PEIPS] team (https://cmap.ip-paris.fr/en/research/probability/peips) (Population Evolution and Interacting Particle Systems) at CMAP, 
+
+- The Inria project [MERGE](https://team.inria.fr/merge/fr/) (Mathematics for Evolution, Reproduction, Growth and Emergence),
+ 
+- The [Evolution de populations et systèmes de particules en interaction] team (https://www.institut-leucemie.fr/linstitut-de-la-leucemie-recherche/population-systemes-particules-interactions/) at Institut de la Leucémie,
+
+as well as a member of the [Chaire MMB](http://www.cmap.polytechnique.fr/~chaire-mmb//index.html) (Chaire Modélisation Mathématique et Biodiversité). 
 
 Research
 ======
-I am an applied mathematician with a strong interest in applications to biological phenomena. My doctoral work focuses on stochastic modeling of hematopoiesis (process by which blood cells are produced), and statistical analysis of clinical data to better understand Myeloproliferative Neoplasms (type of blood cancers). 
+ My doctoral work focuses on stochastic modeling of hematopoiesis (process by which blood cells are produced), and statistical analysis of clinical data to better understand Myeloproliferative Neoplasms (type of blood cancers). 
 
 **Some keywords:**
 
