@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Ana Fernández Baranda"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
+  bio              : "PhD"
   location         : "Palaiseau, France"
   employer         : "CMAP, Ecole Polytechnique"
   uri              : # URL
@@ -92,6 +92,8 @@ publication_category:
    # title: 'Conference Papers'
   preprint:
     title: 'Preprints'
+  workinprogress:
+    title: 'Work in progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
