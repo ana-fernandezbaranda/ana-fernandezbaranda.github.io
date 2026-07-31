@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-**Ph.D in Applied Mathematics**, _(expected 2026)_ <br>
+**Ph.D in Applied Mathematics**, _2022-2026_ <br>
 _CMAP, Ecole Polytechnique, Palaiseau, France_ <br>
 Stochastic modeling of hematopoiesis and Myeloproliferative Neoplasms: hydrodynamic limit and statistical analysis
 Advisors: Sylvie Méléard and Vincent Bansaye
@@ -28,10 +28,12 @@ _Instituto Tecnológico Autónomo de México, Mexico City, Mexico_
 Publications
 ======
 * Bansaye, V., **Fernández Baranda, A.**, Giraudier, S., Méléard, S. _Hematopoiesis as a continuum: from stochastic compartmental model to hydrodynamic limit_. (2026). Submitted. [Download PDF](/files/hematopoiesis.pdf)
-* **Fernández Baranda, A.**, Bansaye, V., Lauret, E., Mounier, M., Ugo, V., Méléard and Giraudier, S. _Classical JAK2V617F+ Myeloproliferative Neoplasms emergence and development based on real life incidence and mathematical modeling_. (2024). Submitted. [Download PDF](/files/age-dependency.pdf)
+* **Fernández Baranda, A.**, Bansaye, V., Lauret, E., Mounier, M., Ugo, V., Méléard and Giraudier, S. _Classical JAK2V617F+ Myeloproliferative Neoplasms emergence and development based on real life incidence and mathematical modeling_. (2024). In revision in _Mathematical Biosciences_. [Download PDF](/files/age-dependency.pdf)
 
 Talks and posters
 ======
+* Junior Female Researchers in Probability 2026, Berlin, Germany (Talk)
+  
 * Journées Math Bio Santé 2025, Montpellier, France. (Talk)
 
 * Mathematical Biology Modelling days of Besançon 2025, Besançon, France. (Talk)
