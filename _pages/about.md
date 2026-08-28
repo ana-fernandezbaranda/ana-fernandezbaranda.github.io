@@ -25,6 +25,8 @@ Research
 ======
 My PhD was done in close collaboration with the medical doctors Stéphane Giraudier and Nabih Maslah from Hôpital Saint-Louis. My work combines theoretical modeling and data-driven approaches to deepen the understanding of hematopoiesis (blood cells formation) and Myeloproliferative Neoplasms (type of blood cancers).
 
+My thesis manuscript can be found [here](https://ana-fernandezbaranda.github.io/files/THESE_NEW.pdf).
+
 **Some keywords:**
 
 - Stochastic processes
