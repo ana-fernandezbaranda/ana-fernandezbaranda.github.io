@@ -28,16 +28,6 @@ My PhD was done in close collaboration with the medical doctors Stéphane Giraud
 My PhD manuscript can be found [here](https://ana-fernandezbaranda.github.io/files/THESE_NEW.pdf).
 
 
-<> **Some keywords:**
-
-# - Stochastic processes
-
-# - Population dynamics
-
-# - Mixed-effects models
-
-# - Mathematical biology
-
 
 
 
